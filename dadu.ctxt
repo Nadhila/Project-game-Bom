@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=dadu()
+comment1.params=visible
+comment1.target=void\ setVisible(boolean)
+comment2.params=
+comment2.target=void\ makeFrame()
+comment3.params=
+comment3.target=void\ komponenVisual()
+comment4.params=
+comment4.target=void\ rolldice()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ score()
+comment7.params=
+comment7.target=void\ Lroll()
+comment8.params=
+comment8.target=void\ Rroll()
+numComments=9
